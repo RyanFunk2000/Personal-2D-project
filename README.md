@@ -2,7 +2,7 @@
 
 I have a primary interest in back-end development, functional programming, and working in teams to solve technical problems and build software. As I develop these skills and learn various languages/frameworks, I become qualified for a career in computing when I graduate BYU Idaho with a major in Computer Science.
 
-This is a 2D platform game and a bare bones recreation of the video games series Super Smash Bros. You move your character, a hero knight, with the arrow keys and jump with the space bar around a body of grassy terrain with three platforms above. If you fall off the terrain or move off screen, an explosion will emanate from where you fell that represents a knock out, after which you will respawn back on the stage. You can also perform a double jump whilst in the air.
+This is a prototype for a 2D platform game and recreation of the video games series Super Smash Bros. You move your character, a hero knight, with the arrow keys and jump with the space bar around a body of grassy terrain with three platforms above. If you fall off the terrain or move off screen, an explosion will emanate from where you fell that represents a knock out, after which you will respawn back on the stage. You can also perform a double jump whilst in the air.
 
 This software was created to introduce myself to working with a game framework. Unity was used to develop and build the game, and C# was used to write scripts containing functions for game interactions and mechanics.
 
@@ -10,7 +10,7 @@ This software was created to introduce myself to working with a game framework. 
 
 # Development Environment
 
-I created my software with VSCode.
+I created my software with Unity Editor and VSCode.
 
 The language(s) demonstrated in this portfolio are: Unity, C#.
 
@@ -25,6 +25,7 @@ The language(s) demonstrated in this portfolio are: Unity, C#.
 * Add sound.
 * Add attacks and more movement options.
 * Add multiplayer functionality.
+* Rework current animation system.
 
 # Additional Credits
 
